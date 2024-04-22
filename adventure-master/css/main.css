@@ -1,11 +1,4 @@
-/*--------------------------- Color variations ----------------------*/
-/* Medium Layout: 1280px */
-/* Tablet Layout: 768px */
-/* Mobile Layout: 320px */
-/* Wide Mobile Layout: 480px */
-/* =================================== */
-/*  Basic Style 
-/* =================================== */
+
 ::-moz-selection {
   /* Code for Firefox */
   background-color: #b01afe;
